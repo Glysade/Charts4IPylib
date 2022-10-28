@@ -12,6 +12,8 @@ Url: https://github.com/Glysade/Charts4IPylib
 Branch: master
 ```
 
+After configuring ScriptSync, restart your Spotfire (Analyst) client.  The library will be cloned into your %USER%\AppData\Local\Temp\ScriptSync directory.
+
 Import the Charts4IPylib using the following IronPython:
 
 ```
