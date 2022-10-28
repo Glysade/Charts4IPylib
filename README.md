@@ -5,7 +5,7 @@ To use this module, configure the following in the ScriptSync Preferences:
 
 ![image](https://user-images.githubusercontent.com/46694342/198642238-f4fba0e8-076a-48c8-a0fd-0b7f1756b9c1.png)
 
-Use these values to Copy+Paste:
+Use these values matching the image above to Copy+Paste into your ScriptSync configuration:
 ```
 Name: Charts4IPylib
 Url: https://github.com/Glysade/Charts4IPylib
