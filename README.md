@@ -3,7 +3,7 @@ IronPython library for configuring ChemCharts4 visuals
 
 To use this module, configure the following in the ScriptSync Preferences:
 
-![image](https://user-images.githubusercontent.com/46694342/198631923-d7cccca5-5074-49e3-9879-7f07a8797fe6.png)
+![image](https://user-images.githubusercontent.com/46694342/198642238-f4fba0e8-076a-48c8-a0fd-0b7f1756b9c1.png)
 
 Use these values to Copy+Paste:
 ```
