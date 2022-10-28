@@ -7,6 +7,7 @@ To use this module, configure the following in the ScriptSync Preferences:
 
 Import the Charts4IPylib using the following IronPython:
 
+```
 import sys
 import __builtin__
 from System.IO import Path
@@ -14,3 +15,4 @@ sys.path.append(Path.Combine(Path.GetTempPath(),'ScriptSync','ConfigureCharts4')
 __builtin__.Document = Document
 __builtin__.Application = Application
 import Charts4IPylib
+```
