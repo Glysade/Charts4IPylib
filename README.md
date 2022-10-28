@@ -5,6 +5,11 @@ To use this module, configure the following in the ScriptSync Preferences:
 
 ![image](https://user-images.githubusercontent.com/46694342/198631923-d7cccca5-5074-49e3-9879-7f07a8797fe6.png)
 
+Use these values to Copy+Paste:
+Name: Charts4IPylib
+Url: https://github.com/Glysade/Charts4IPylib
+Branch: master
+
 Import the Charts4IPylib using the following IronPython:
 
 ```
