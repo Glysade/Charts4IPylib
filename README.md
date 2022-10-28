@@ -11,7 +11,7 @@ Import the Charts4IPylib using the following IronPython:
 import sys
 import __builtin__
 from System.IO import Path
-sys.path.append(Path.Combine(Path.GetTempPath(),'ScriptSync','ConfigureCharts4'))
+sys.path.append(Path.Combine(Path.GetTempPath(),'ScriptSync','Charts4IPylib'))
 __builtin__.Document = Document
 __builtin__.Application = Application
 import Charts4IPylib
